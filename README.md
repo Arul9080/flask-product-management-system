@@ -1,7 +1,7 @@
 # flask-product-management-system
 Product Management Web Application
 [image.docx](https://github.com/Arul9080/flask-product-management-system/files/10743299/image.docx)
-The goal is to create a web application using Flask framework to Product Management  of a list of products in respective warehouses. Imagine this application will be used in a shop or a warehouse that needs to keep track of various products and various locations.
+The goal is to create a web application using Flask framework to Product Management  of a list of products in respective warehouses. Imagine this application will be used in a shop or a warehouse that needs to keep track of various products and various locations for using connectivity database server is SQlite.
 ![overall product details](https://user-images.githubusercontent.com/122799761/219045039-c964b27d-2be0-49d0-88c5-42c4821f32a8.jpg)
 ![product details](https://user-images.githubusercontent.com/122799761/219045079-fa5c04ab-5eaf-4a50-ac09-8a07c0d3cb0a.jpg)
 ![product movement](https://user-images.githubusercontent.com/122799761/219045086-a092a423-b320-4157-a786-cccfffb05b50.jpg)
